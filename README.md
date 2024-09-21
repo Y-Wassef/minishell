@@ -47,7 +47,7 @@ $ ls | grep minishell > output.txt
 ## Project Structure
 
 - **src/**: Contains the source code files.
-- **include/**: Header files.
+- **libft/**: Custom C library used in the project.
 - **Makefile**: Used to compile the project.
 
 ## Requirements
